@@ -49,4 +49,8 @@ Each Python problem contains:
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/bhargavtimbadiya1010/LEETCODE_PYTHON/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
+## Database
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1729-find-followers-count](https://github.com/bhargavtimbadiya1010/LEETCODE_PYTHON/tree/main/1729-find-followers-count/) | Easy |
 <!---LeetCode Topics End-->
