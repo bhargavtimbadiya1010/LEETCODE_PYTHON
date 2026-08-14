@@ -52,5 +52,6 @@ Each Python problem contains:
 ## Database
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0619-biggest-single-number](https://github.com/bhargavtimbadiya1010/LEETCODE_PYTHON/tree/main/0619-biggest-single-number/) | Easy |
 | [1729-find-followers-count](https://github.com/bhargavtimbadiya1010/LEETCODE_PYTHON/tree/main/1729-find-followers-count/) | Easy |
 <!---LeetCode Topics End-->
