@@ -53,5 +53,6 @@ Each Python problem contains:
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0619-biggest-single-number](https://github.com/bhargavtimbadiya1010/LEETCODE_PYTHON/tree/main/0619-biggest-single-number/) | Easy |
+| [1045-customers-who-bought-all-products](https://github.com/bhargavtimbadiya1010/LEETCODE_PYTHON/tree/main/1045-customers-who-bought-all-products/) | Medium |
 | [1729-find-followers-count](https://github.com/bhargavtimbadiya1010/LEETCODE_PYTHON/tree/main/1729-find-followers-count/) | Easy |
 <!---LeetCode Topics End-->
