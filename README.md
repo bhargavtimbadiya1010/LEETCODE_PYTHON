@@ -24,6 +24,7 @@ Each Python problem contains:
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0001-two-sum](https://github.com/bhargavtimbadiya1010/LEETCODE_PYTHON/tree/main/0001-two-sum/) | Easy |
+| [0011-container-with-most-water](https://github.com/bhargavtimbadiya1010/LEETCODE_PYTHON/tree/main/0011-container-with-most-water/) | Medium |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -57,4 +58,12 @@ Each Python problem contains:
 | [0619-biggest-single-number](https://github.com/bhargavtimbadiya1010/LEETCODE_PYTHON/tree/main/0619-biggest-single-number/) | Easy |
 | [1045-customers-who-bought-all-products](https://github.com/bhargavtimbadiya1010/LEETCODE_PYTHON/tree/main/1045-customers-who-bought-all-products/) | Medium |
 | [1729-find-followers-count](https://github.com/bhargavtimbadiya1010/LEETCODE_PYTHON/tree/main/1729-find-followers-count/) | Easy |
+## Two Pointers
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0011-container-with-most-water](https://github.com/bhargavtimbadiya1010/LEETCODE_PYTHON/tree/main/0011-container-with-most-water/) | Medium |
+## Greedy
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0011-container-with-most-water](https://github.com/bhargavtimbadiya1010/LEETCODE_PYTHON/tree/main/0011-container-with-most-water/) | Medium |
 <!---LeetCode Topics End-->
